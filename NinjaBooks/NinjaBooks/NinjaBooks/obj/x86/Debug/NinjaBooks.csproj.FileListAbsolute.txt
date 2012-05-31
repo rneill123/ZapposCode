@@ -1,0 +1,13 @@
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\bin\Debug\NinjaBooks.exe
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\bin\Debug\NinjaBooks.pdb
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\MainWindow.baml
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\MainWindow.g.cs
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\App.g.cs
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\NinjaBooks_MarkupCompile.cache
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\NinjaBooks.g.resources
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\NinjaBooks.exe
+C:\Users\deathbunny\Documents\Visual Studio 2010\Projects\NinjaBooks\NinjaBooks\NinjaBooks\obj\x86\Debug\NinjaBooks.pdb
